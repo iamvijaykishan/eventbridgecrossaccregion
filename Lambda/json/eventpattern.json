@@ -1,0 +1,7 @@
+{
+    "source": ["Transcoder"],
+    "detail-type": ["Media Added"],
+    "detail": {
+      "dest": ["CMS.01"]
+    }
+  }
